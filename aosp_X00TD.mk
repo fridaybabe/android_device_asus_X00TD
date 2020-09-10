@@ -20,6 +20,10 @@ TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_GAPPS_ARCH := arm64
 CUSTOM_BUILD_TYPE := OFFICIAL
 
+EVO_DONATE_URL := https://PayPal.me/vivekachoooz
+EVO_MAINTAINER := Achooz
+EVO_SUPPORT_URL := https://t.me/EvolutionXX00T
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := aosp_X00TD
 PRODUCT_DEVICE := X00TD
